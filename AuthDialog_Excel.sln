@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuthDialog_Excel", "AuthDialog_Excel\AuthDialog_Excel.csproj", "{FBB0EE2D-B35E-4708-A2EE-0DEF6B063B32}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuthDialog_ExcelWeb", "AuthDialog_ExcelWeb\AuthDialog_ExcelWeb.csproj", "{95AD13B3-DE1F-4183-84D7-CAE0F6BE1DAA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FBB0EE2D-B35E-4708-A2EE-0DEF6B063B32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBB0EE2D-B35E-4708-A2EE-0DEF6B063B32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBB0EE2D-B35E-4708-A2EE-0DEF6B063B32}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{FBB0EE2D-B35E-4708-A2EE-0DEF6B063B32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBB0EE2D-B35E-4708-A2EE-0DEF6B063B32}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FBB0EE2D-B35E-4708-A2EE-0DEF6B063B32}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{95AD13B3-DE1F-4183-84D7-CAE0F6BE1DAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95AD13B3-DE1F-4183-84D7-CAE0F6BE1DAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95AD13B3-DE1F-4183-84D7-CAE0F6BE1DAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95AD13B3-DE1F-4183-84D7-CAE0F6BE1DAA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
